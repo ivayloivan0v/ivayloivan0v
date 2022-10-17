@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivaylo Ivanov
 =====================================================================================================================================
 
-React Developer
----------------
+Mobile Developer
+----------------
 
 Highly motivated, self-starting developer looking to launch a career building web and/or mobile applications. Striving to increase my skills and continue learning and developing myself.
 
 * 🌍  I'm based in Gabrovo, Bulgaria
 * ✉️  You can contact me at [ivayloivan0vdk@gmail.com](mailto:ivayloivan0vdk@gmail.com)
-* 🧠  I'm learning ReactJS and React Native
+* 🧠  I'm learning Swift and React Native
 * ⚡  I love dogs!!! I have two awesome pitbulls.
 
 ### Skills
